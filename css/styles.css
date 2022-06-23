@@ -9,6 +9,6 @@ body{
     height: 100vh;
 }
 
-.left{
-    float:left !important;
+.container-fluid{
+    padding: 3% 15%;
 }
